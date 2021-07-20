@@ -1,11 +1,12 @@
 ## Interface: 90100
 ## Title: Adventure Stan
-## Version: 0.0.2
+## Version: 0.0.3
 ## Notes: Interface improvements for the Covenant Mission Table.
 ## Author: codepwnie
 ## License: MIT License
 ## X-Website: https://github.com/rwygand/adventure_stan
 ## SavedVariablesPerCharacter: ADV_STAN
+## X-Curse-Project-ID: 506554
 Libs/Evie.lua
 Locale.lua
 Util.lua

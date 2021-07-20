@@ -1,17 +1,7 @@
-## Interface: 90005
+## Interface: 90100
 ## Title: Adventure Stan
-## Version: 4.16a
+## Version: 0.0.2
 ## Notes: Interface improvements for the Covenant Mission Table.
-## Notes-deDE: Verbesserungen der Benutzeroberfläche für den Befehlstisch.
-## Notes-esES: Mejoras de la interfaz para las aventuras.
-## Notes-esMX: Mejoras de la interfaz para las Aventuras.
-## Notes-frFR: Améliorations de l'interface pour les aventures.
-## Notes-itIT: Miglioramenti dell'interfaccia per le Avventure.
-## Notes-koKR: 모험을 위한 인터페이스 개선
-## Notes-ruRU: Улучшение интерфейса для Приключений.
-## Notes-zhCN: 冒险界面改进。
-## Notes-zhTW: 冒險介面改善
-## Notes-ptBR: Melhorias na interface de Aventuras.
 ## Author: codepwnie
 ## License: MIT License
 ## X-Website: https://github.com/rwygand/adventure_stan
